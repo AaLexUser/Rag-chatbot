@@ -1,0 +1,17 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+######################
+.vscode
+.idea
+chroma
+__pycache__
+venv
+data
+fontawesome-free-6.5.2-web

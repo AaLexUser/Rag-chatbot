@@ -1,0 +1,23 @@
+.card{
+	border-color: transparent;
+	background-color: transparent;
+}
+.src_card{
+	color: white;
+	background-color: #6f6f6f;
+    border-radius: 25px;
+}
+[popover] {
+    background-color: #555555;
+    border-radius: 25px;
+    padding: 2rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-wrap: wrap;
+    z-index: 9999;
+    width: 60vw;
+}
